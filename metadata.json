@@ -1,0 +1,6 @@
+{
+  "name": "BalanceVault – Financial Account Management System",
+  "description": "Secure enterprise financial account management system featuring KYC onboarding, multi-account management, role-based admin workflows, and real-time audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
